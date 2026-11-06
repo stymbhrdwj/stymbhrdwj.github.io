@@ -3,6 +3,8 @@ layout: default
 title: Satyam Bhardwaj
 ---
 
+<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Satyam Bhardwaj" width="160" height="160" style="border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
+
 # Satyam Bhardwaj
 
 **Researcher, Visual Computing and Embodied AI**, TCS Research
@@ -33,7 +35,19 @@ Generated and analysed cylindrical vector laser beams with spatially-variant pol
 
 ## Publications
 
-My publications are listed on [Google Scholar](https://scholar.google.com/citations?user=bJnuDZEAAAAJ&hl=en).
+**UltraNormal: Scaling Pretrained Diffusion-Based Surface Normal Estimators to Ultra-High-Resolution**  
+**S Bhardwaj**, L Tiwari, SA Shukla, M Halder, A Gangopadhyay, et al.  
+*Computer Graphics Forum*, e70587, 2026
+
+**InGenCo: Integrated In-Place 3D Scenario Generation and Collaboration**  
+R Mittal, L Tiwari, **S Bhardwaj**, M Halder, B Bhowmick  
+*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Adjunct*, 2025
+
+**TensoIS: A Step Towards Feed-Forward Tensorial Inverse Subsurface Scattering for Perlin Distributed Heterogeneous Media**  
+A Tiwari, **S Bhardwaj**, Y Bachwana, PS Sahu, TMF Ali, B Chintalapati, et al.  
+*Computer Graphics Forum* 44 (7), e70242, 2025
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=bJnuDZEAAAAJ&hl=en).
 
 ## Selected Projects
 
