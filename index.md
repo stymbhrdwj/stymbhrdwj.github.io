@@ -62,6 +62,10 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=bJnuDZEA
 - GATE Computer Science 2022: AIR 974 out of 77,257 candidates
 - JEE Advanced 2015: AIR 13318; JEE Mains 2015: AIR 4652
 
+<img src="{{ '/assets/presidents-gold-medal.jpg' | relative_url }}" alt="Receiving the President's Gold Medal at IIT Gandhinagar" style="max-width: 100%; border-radius: 6px;">
+
+*Receiving the President's Gold Medal at IIT Gandhinagar, 2024.*
+
 ## Skills
 
 **Languages:** Python, C/C++, MATLAB
