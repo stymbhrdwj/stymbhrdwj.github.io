@@ -15,6 +15,12 @@ title: Satyam Bhardwaj
 
 I am a researcher in the Visual Computing and Embodied AI department at TCS Research, where I have worked since November 2024. I hold an M.Tech in Computer Science and Engineering from IIT Gandhinagar, where my thesis was on neural inverse scattering for translucent objects, supervised by Prof. Shanmuganathan Raman. My interests lie in computer vision, graphics, differentiable and physically-based rendering, and machine learning.
 
+## News
+
+**2025:** Presented TensoIS at Pacific Graphics 2025.
+
+<img src="{{ '/assets/pacific-graphics-2025.jpg' | relative_url }}" alt="Presenting TensoIS at Pacific Graphics 2025" style="max-width: 100%; border-radius: 6px;">
+
 ## Experience
 
 **Researcher, Visual Computing and Embodied AI**, TCS Research
@@ -48,20 +54,6 @@ A Tiwari, **S Bhardwaj**, Y Bachwana, PS Sahu, TMF Ali, B Chintalapati, et al.
 *Computer Graphics Forum* 44 (7), e70242, 2025
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=bJnuDZEAAAAJ&hl=en).
-
-## Selected Projects
-
-**Neural Inverse Scattering for Heterogeneous Translucent Objects** (M.Tech thesis, Oct 2023 – Jun 2024)
-A learning-based method, built with PyTorch, that predicts the internal scattering parameters of a heterogeneous translucent object as a 3D grid from multi-view images. Trained on a synthetic dataset of 5 million images rendered with Mitsuba 3. Vector-Matrix tensor decomposition replaces 3D convolutions with 2D + 1D convolutions, halving the model size, and differentiable rendering recovers the object's 3D mesh from silhouettes. The model generalizes to unseen objects and unseen scattering parameters. Supported by the Qualcomm Innovation Fellowship 2023.
-
-**Predicting EEG responses to visual stimuli with deep neural networks** (Mar – Apr 2023)
-Trained linearizing encoding models on the THINGS-EEG dataset (50 subjects, 22,248 images) and compared them with end-to-end AlexNet encoders. Predictions correlated significantly with the ground-truth EEG for unseen images and generalized across subjects.
-
-**Panorama stitching from scratch in Python** (Sep 2023)
-Homography estimation, image warping and multi-band blending implemented in NumPy to remove ghosting from misaligned overlapping images.
-
-**Bayesian Linear Regression web app** (Nov 2023)
-A Streamlit app showing how prior and likelihood choices shape the posterior predictive distribution, with posterior samples drawn using NUTS MCMC in NumPyro.
 
 ## Honors
 
