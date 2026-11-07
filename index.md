@@ -65,10 +65,3 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=bJnuDZEA
 <img src="{{ '/assets/presidents-gold-medal.jpg' | relative_url }}" alt="Receiving the President's Gold Medal at IIT Gandhinagar" style="max-width: 100%; border-radius: 6px;">
 
 *Receiving the President's Gold Medal at IIT Gandhinagar, 2024.*
-
-## Skills
-
-**Languages:** Python, C/C++, MATLAB
-**Libraries:** PyTorch, OpenCV, scikit-learn, NumPy, NumPyro, Pandas, Matplotlib
-**Graphics:** Mitsuba, Blender, MeshLab, SOLIDWORKS
-**Tools:** Linux, Git, Docker, LaTeX
