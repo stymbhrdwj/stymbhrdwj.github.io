@@ -17,7 +17,7 @@ I am a researcher in the Visual Computing and Embodied AI department at TCS Rese
 
 ## News
 
-**2025:** Presented TensoIS at Pacific Graphics 2025.
+**2025:** Presented [TensoIS](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70242) at Pacific Graphics 2025.
 
 <img src="{{ '/assets/pacific-graphics-2025.jpg' | relative_url }}" alt="Presenting TensoIS at Pacific Graphics 2025" style="max-width: 100%; border-radius: 6px;">
 
@@ -41,15 +41,15 @@ Generated and analysed cylindrical vector laser beams with spatially-variant pol
 
 ## Publications
 
-**UltraNormal: Scaling Pretrained Diffusion-Based Surface Normal Estimators to Ultra-High-Resolution**  
+**[UltraNormal: Scaling Pretrained Diffusion-Based Surface Normal Estimators to Ultra-High-Resolution](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70587?af=R)**  
 **S Bhardwaj**, L Tiwari, SA Shukla, M Halder, A Gangopadhyay, et al.  
 *Computer Graphics Forum*, e70587, 2026
 
-**InGenCo: Integrated In-Place 3D Scenario Generation and Collaboration**  
+**[InGenCo: Integrated In-Place 3D Scenario Generation and Collaboration](https://ieeexplore.ieee.org/document/11236362/)**  
 R Mittal, L Tiwari, **S Bhardwaj**, M Halder, B Bhowmick  
 *IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Adjunct*, 2025
 
-**TensoIS: A Step Towards Feed-Forward Tensorial Inverse Subsurface Scattering for Perlin Distributed Heterogeneous Media**  
+**[TensoIS: A Step Towards Feed-Forward Tensorial Inverse Subsurface Scattering for Perlin Distributed Heterogeneous Media](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70242)**  
 A Tiwari, **S Bhardwaj**, Y Bachwana, PS Sahu, TMF Ali, B Chintalapati, et al.  
 *Computer Graphics Forum* 44 (7), e70242, 2025
 
